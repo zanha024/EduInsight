@@ -1,0 +1,231 @@
+gender,backlogs,sleep,concentration,age,academic_level,currently_satisfied,absent_days,time,info_delivery,learning_strategy,mental_activities,raise_hands,study_time,grades
+Female,None,Less than 7hr,15min - 30min,20-25,UNDER GRADUATE,Neutral,Less than 10,pomodoro,Read/Write,feyman,"Exploring creative endeavors like writing, drawing, or composing.",3,Less than 1 hour,70-90%
+Female,None,7hr,15min - 30min,20-25,UNDER GRADUATE,Neutral,Less than 10,pomodoro,Visual (Pictures / Diagrams),flowtime,Immersing myself in deep and thought-provoking discussions.,1,Less than 1 hour,70-90%
+Female,None,More than 7hr,15min - 30min,20-25,UNDER GRADUATE,Slightly,Less than 30,pomodoro,Auditory,flowtime,"Exploring creative endeavors like writing, drawing, or composing.",1,Less than 1 hour,Greater than 90%
+Female,None,Less than 7hr,15min - 30min,15-20,UNDER GRADUATE,Slightly,Less than 30,time_blocking,Read/Write,feyman,Solving puzzles and brainteasers.,1,Less than 1 hour,50-70%
+Male,None,Less than 7hr,Less than 15min,20-25,UNDER GRADUATE,vey much,Less than 30,time_blocking,Visual (Pictures / Diagrams),feyman,Engaging in critical thinking and problem-solving.,4,Less than 1 hour,70-90%
+Female,None,Less than 7hr,15min - 30min,20-25,UNDER GRADUATE,Neutral,Less than 10,time_blocking,All of the above. It depends on the subject/course I'm learning,flowtime,Mastering new skills through interactive and immersive methods.,2,Less than 1 hour,70-90%
+Female,None,7hr,30min - 45min,15-20,UNDER GRADUATE,Neutral,Less than 10,pomodoro,Read/Write,smart_goals,Participating in debates and discussions that challenge my perspective.,2,Less than 1 hour,70-90%
+Male,None,More than 7hr,Less than 15min,15-20,UNDER GRADUATE,Extremly,Less than 10,time_blocking,A mixture of all,feyman,Tackling complex challenges that require strategic thinking.,0,Less than 1 hour,Greater than 90%
+Male,None,Less than 7hr,15min - 30min,15-20,UNDER GRADUATE,Neutral,Less than 10,pomodoro,Read/Write,flowtime,Reflecting on complex ideas and connecting them to real-world scenarios.,4,Less than 1 hour,70-90%
+Female,None,Less than 7hr,15min - 30min,15-20,UNDER GRADUATE,Not at all,Less than 10,pomodoro,Visual (Pictures / Diagrams),flowtime,Absorbing information through visual aids and diagrams.,0,Less than 1 hour,70-90%
+Female,None,Less than 7hr,30min - 45min,20-25,UNDER GRADUATE,Not at all,Less than 10,pomodoro,Read/Write,flowtime,Participating in debates and discussions that challenge my perspective.,0,Less than 1 hour,50-70%
+Female,None,7hr,15min - 30min,20-25,UNDER GRADUATE,Slightly,Less than 10,pomodoro,Visual (Pictures / Diagrams),eisenhower,Reflecting on complex ideas and connecting them to real-world scenarios.,0,Less than 1 hour,70-90%
+Female,None,7hr,Less than 15min,20-25,UNDER GRADUATE,Neutral,Less than 10,pomodoro,Read/Write,feyman,Solving puzzles and brainteasers.,1,Less than 1 hour,70-90%
+Male,None,Less than 7hr,30min - 45min,20-25,UNDER GRADUATE,vey much,Less than 30,pomodoro,Read/Write,feyman,Engaging in critical thinking and problem-solving.,2,Less than 1 hour,70-90%
+Male,None,Less than 7hr,15min - 30min,20-25,UNDER GRADUATE,Slightly,Less than 30,time_blocking,Read/Write,feyman,Engaging in critical thinking and problem-solving.,2,Less than 1 hour,70-90%
+Female,Less than 5,More than 7hr,Less than 15min,20-25,UNDER GRADUATE,Neutral,Less than 10,time_blocking,Read/Write,feyman,Absorbing information through visual aids and diagrams.,2,Less than 1 hour,50-70%
+Female,None,7hr,30min - 45min,20-25,UNDER GRADUATE,vey much,Less than 10,time_blocking,Read/Write,smart_goals,"Exploring creative endeavors like writing, drawing, or composing.",3,1-3 hours,70-90%
+Female,None,7hr,30min - 45min,15-20,UNDER GRADUATE,Slightly,Less than 10,time_blocking,Visual (Pictures / Diagrams),feyman,Absorbing information through visual aids and diagrams.,1,Less than 1 hour,Greater than 90%
+Male,Less than 5,Less than 7hr,30min - 45min,20-25,UNDER GRADUATE,Neutral,Less than 10,time_blocking,Visual (Pictures / Diagrams),eisenhower,Engaging in critical thinking and problem-solving.,1,Less than 1 hour,70-90%
+Female,None,7hr,30min - 45min,20-25,POST GRADUATE,Slightly,Less than 10,time_blocking,Read/Write,smart_goals,Learning through hands-on experiences and practical applications.,0,Less than 1 hour,70-90%
+Male,None,7hr,More than 45min,20-25,UNDER GRADUATE,Slightly,Less than 10,time_blocking,Kinaesthetic (learning by physical activity and hands-on experiences.),feyman,Tackling complex challenges that require strategic thinking.,1,Less than 1 hour,70-90%
+Female,None,Less than 7hr,More than 45min,20-25,UNDER GRADUATE,Neutral,Less than 10,time_blocking,Visual (Pictures / Diagrams),flowtime,Solving puzzles and brainteasers.,2,Less than 1 hour,70-90%
+Female,None,More than 7hr,Less than 15min,20-25,UNDER GRADUATE,Extremly,Less than 10,pomodoro,Read/Write,feyman,Solving puzzles and brainteasers.,5,Less than 1 hour,70-90%
+Male,Greater than 5,7hr,15min - 30min,20-25,UNDER GRADUATE,Neutral,Above 30,pomodoro,Visual (Pictures / Diagrams),flowtime,Engaging in critical thinking and problem-solving.,2,Less than 1 hour,Less than 50%
+Male,None,Less than 7hr,30min - 45min,20-25,UNDER GRADUATE,Slightly,Less than 30,time_blocking,Read/Write,feyman,Immersing myself in deep and thought-provoking discussions.,3,Less than 1 hour,70-90%
+Male,None,Less than 7hr,30min - 45min,20-25,UNDER GRADUATE,Slightly,Less than 10,time_blocking,Kinaesthetic (learning by physical activity and hands-on experiences.),flowtime,Learning through hands-on experiences and practical applications.,2,1-3 hours,70-90%
+Female,Greater than 5,Less than 7hr,30min - 45min,20-25,UNDER GRADUATE,Slightly,Less than 30,pomodoro,Kinaesthetic (learning by physical activity and hands-on experiences.),smart_goals,Engaging in critical thinking and problem-solving.,4,Less than 1 hour,Less than 50%
+Female,None,7hr,30min - 45min,15-20,UNDER GRADUATE,Slightly,Less than 10,pomodoro,Read/Write,feyman,"Exploring creative endeavors like writing, drawing, or composing.",2,Less than 1 hour,70-90%
+Female,None,7hr,15min - 30min,20-25,UNDER GRADUATE,Neutral,Less than 10,pomodoro,Read/Write,flowtime,Learning through hands-on experiences and practical applications.,0,Less than 1 hour,50-70%
+Female,None,More than 7hr,More than 45min,20-25,UNDER GRADUATE,Extremly,Less than 10,pomodoro,Visual (Pictures / Diagrams),feyman,Solving puzzles and brainteasers.,0,Less than 1 hour,Greater than 90%
+Female,None,More than 7hr,Less than 15min,20-25,UNDER GRADUATE,Not at all,Above 30,pomodoro,Read/Write,eisenhower,"Exploring creative endeavors like writing, drawing, or composing.",2,1-3 hours,70-90%
+Female,None,7hr,15min - 30min,20-25,UNDER GRADUATE,Slightly,Less than 10,pomodoro,Visual (Pictures / Diagrams),smart_goals,Solving puzzles and brainteasers.,3,Less than 1 hour,70-90%
+Male,None,7hr,15min - 30min,15-20,UNDER GRADUATE,Neutral,Less than 10,time_blocking,Read/Write,flowtime,Learning through hands-on experiences and practical applications.,2,Less than 1 hour,70-90%
+Male,None,Less than 7hr,15min - 30min,15-20,HIGHER SECONDARY SCHOOL,Not at all,Less than 30,time_blocking,Auditory,feyman,Reflecting on complex ideas and connecting them to real-world scenarios.,0,Less than 1 hour,50-70%
+Male,Less than 5,7hr,More than 45min,20-25,POST GRADUATE,Neutral,Less than 10,pomodoro,Read/Write,smart_goals,Solving puzzles and brainteasers.,3,1-3 hours,70-90%
+Female,None,7hr,30min - 45min,20-25,UNDER GRADUATE,Slightly,Less than 10,time_blocking,Read/Write,flowtime,Mastering new skills through interactive and immersive methods.,2,Less than 1 hour,50-70%
+Female,None,7hr,Less than 15min,20-25,UNDER GRADUATE,Slightly,Less than 10,time_blocking,Read/Write,smart_goals,Solving puzzles and brainteasers.,3,Less than 1 hour,70-90%
+Female,None,7hr,Less than 15min,20-25,UNDER GRADUATE,Slightly,Less than 10,pomodoro,Auditory,smart_goals,Mastering new skills through interactive and immersive methods.,3,Less than 1 hour,50-70%
+Female,None,7hr,30min - 45min,20-25,UNDER GRADUATE,vey much,Less than 10,time_blocking,Read/Write,flowtime,Mastering new skills through interactive and immersive methods.,2,Less than 1 hour,50-70%
+Male,None,Less than 7hr,More than 45min,20-25,UNDER GRADUATE,Neutral,Less than 10,time_blocking,Read/Write,smart_goals,Engaging in critical thinking and problem-solving.,0,Less than 1 hour,70-90%
+Male,None,Less than 7hr,More than 45min,20-25,UNDER GRADUATE,Slightly,Less than 10,time_blocking,Read/Write,feyman,Engaging in critical thinking and problem-solving.,0,Less than 1 hour,70-90%
+Male,Less than 5,7hr,More than 7hr,15-20,UNDER GRADUATE,Extremly,Less than 30,time_blocking,Auditory,flowtime,Mastering new skills through interactive and immersive methods.,5,Less than 1 hour,70-90%
+Male,Greater than 5,More than 7hr,More than 45min,20-25,POST GRADUATE,Extremly,Above 30,time_blocking,Auditory,flowtime,Reflecting on complex ideas and connecting them to real-world scenarios.,more than 3 hours,Greater than 90%,
+Male,None,7hr,30min - 45min,20-25,POST GRADUATE,vey much,Less than 10,time_blocking,Read/Write,smart_goals,Learning through hands-on experiences and practical applications.,2,1-3 hours,Greater than 90%
+Male,Greater than 5,More than 7hr,Less than 15min,15-20,UNDER GRADUATE,Not at all,Above 30,time_blocking,,smart_goals,Learning through hands-on experiences and practical applications.,5,Less than 1 hour,50-70%
+Male,Greater than 5,Less than 7hr,Less than 15min,15-20,UNDER GRADUATE,vey much,Above 30,pomodoro,Auditory,smart_goals,Learning through hands-on experiences and practical applications.,5,Less than 1 hour,50-70%
+Male,Less than 5,7hr,More than 45min,20-25,UNDER GRADUATE,Neutral,Less than 30,pomodoro,Auditory,feyman,Mastering new skills through interactive and immersive methods.,1,Less than 1 hour,50-70%
+Male,Less than 5,More than 7hr,15min - 30min,20-25,UNDER GRADUATE,vey much,Less than 30,time_blocking,Kinaesthetic (learning by physical activity and hands-on experiences.),feyman,Learning through hands-on experiences and practical applications.,4,Less than 1 hour,50-70%
+Male,None,7hr,15min - 30min,20-25,OTHER,Neutral,Less than 10,time_blocking,Visual (Pictures / Diagrams),smart_goals,Absorbing information through visual aids and diagrams.,2,more than 3 hours,70-90%
+Female,None,Less than 7hr,30min - 45min,20-25,UNDER GRADUATE,Neutral,Less than 10,pomodoro,Read/Write,eisenhower,"Exploring creative endeavors like writing, drawing, or composing.",2,Less than 1 hour,70-90%
+Male,Greater than 5,Less than 7hr,Less than 15min,20-25,POST GRADUATE,Slightly,Less than 10,time_blocking,Read/Write,feyman,Solving puzzles and brainteasers.,1,Less than 1 hour,70-90%
+Female,None,7hr,More than 45min,20-25,POST GRADUATE,Neutral,Less than 10,time_blocking,Visual (Pictures / Diagrams),smart_goals,Solving puzzles and brainteasers.,4,more than 3 hours,70-90%
+Male,None,7hr,Less than 15min,20-25,UNDER GRADUATE,vey much,Less than 10,pomodoro,Read/Write,feyman,Solving puzzles and brainteasers.,0,Less than 1 hour,70-90%
+Male,None,Less than 7hr,15min - 30min,15-20,UNDER GRADUATE,Neutral,Less than 10,time_blocking,Visual (Pictures / Diagrams),smart_goals,"Exploring creative endeavors like writing, drawing, or composing.",2,Less than 1 hour,50-70%
+Male,Greater than 5,More than 7hr,More than 45min,25-30,OTHER,Extremly,Above 30,time_blocking,Read/Write,flowtime,Solving puzzles and brainteasers.,5,more than 3 hours,Greater than 90%
+Female,None,7hr,More than 45min,20-25,UNDER GRADUATE,Neutral,Less than 30,pomodoro,Read/Write,flowtime,Solving puzzles and brainteasers.,0,Less than 1 hour,70-90%
+Female,None,Less than 7hr,More than 45min,20-25,UNDER GRADUATE,vey much,Less than 30,time_blocking,Read/Write,feyman,Absorbing information through visual aids and diagrams.,0,Less than 1 hour,50-70%
+Male,None,7hr,30min - 45min,15-20,UNDER GRADUATE,Neutral,Less than 30,time_blocking,Kinaesthetic (learning by physical activity and hands-on experiences.),feyman,Learning through hands-on experiences and practical applications.,1,Less than 1 hour,70-90%
+Male,None,Less than 7hr,15min - 30min,20-25,UNDER GRADUATE,Neutral,Less than 10,pomodoro,Visual (Pictures / Diagrams),flowtime,Engaging in critical thinking and problem-solving.,1,Less than 1 hour,70-90%
+Male,Less than 5,7hr,Less than 15min,20-25,UNDER GRADUATE,Slightly,Less than 10,pomodoro,Visual (Pictures / Diagrams),smart_goals,Immersing myself in deep and thought-provoking discussions.,3,1-3 hours,70-90%
+Male,Less than 5,Less than 7hr,15min - 30min,15-20,UNDER GRADUATE,Neutral,Less than 10,pomodoro,Visual (Pictures / Diagrams),flowtime,Mastering new skills through interactive and immersive methods.,1,Less than 1 hour,Less than 50%
+Female,None,Less than 7hr,15min - 30min,15-20,UNDER GRADUATE,Neutral,Less than 10,time_blocking,Visual (Pictures / Diagrams),flowtime,Solving puzzles and brainteasers.,2,1-3 hours,70-90%
+Female,None,7hr,15min - 30min,20-25,UNDER GRADUATE,Slightly,Less than 10,time_blocking,Read/Write,feyman,"Exploring creative endeavors like writing, drawing, or composing.",1,Less than 1 hour,70-90%
+Female,None,7hr,15min - 30min,20-25,UNDER GRADUATE,Neutral,Less than 10,time_blocking,Read/Write,feyman,Absorbing information through visual aids and diagrams.,0,Less than 1 hour,70-90%
+Female,None,7hr,15min - 30min,15-20,UNDER GRADUATE,Neutral,Less than 10,time_blocking,Read/Write,feyman,Learning through hands-on experiences and practical applications.,0,Less than 1 hour,50-70%
+Female,None,7hr,Less than 15min,20-25,UNDER GRADUATE,Neutral,Less than 10,pomodoro,Read/Write,feyman,"Exploring creative endeavors like writing, drawing, or composing.",1,Less than 1 hour,70-90%
+Female,None,7hr,15min - 30min,20-25,UNDER GRADUATE,Neutral,Less than 10,time_blocking,Visual (Pictures / Diagrams),feyman,Immersing myself in deep and thought-provoking discussions.,1,Less than 1 hour,70-90%
+Male,None,Less than 7hr,Less than 15min,15-20,UNDER GRADUATE,Neutral,Less than 10,time_blocking,Visual (Pictures / Diagrams),flowtime,Engaging in critical thinking and problem-solving.,1,Less than 1 hour,70-90%
+Male,None,7hr,Less than 15min,20-25,UNDER GRADUATE,Slightly,Less than 10,time_blocking,Read/Write,smart_goals,Learning through hands-on experiences and practical applications.,1,Less than 1 hour,70-90%
+Male,None,7hr,More than 7hr,20-25,POST GRADUATE,Neutral,Less than 10,time_blocking,Visual (Pictures / Diagrams),feyman,Solving puzzles and brainteasers.,4,Less than 1 hour,70-90%
+Male,None,7hr,Less than 15min,20-25,UNDER GRADUATE,Neutral,Less than 10,time_blocking,Read/Write,flowtime,"Exploring creative endeavors like writing, drawing, or composing.",2,Less than 1 hour,70-90%
+Male,None,7hr,30min - 45min,20-25,UNDER GRADUATE,Neutral,Less than 10,pomodoro,Visual (Pictures / Diagrams),smart_goals,Engaging in critical thinking and problem-solving.,3,Less than 1 hour,70-90%
+Male,None,7hr,30min - 45min,20-25,UNDER GRADUATE,Slightly,Less than 10,time_blocking,Visual (Pictures / Diagrams),flowtime,Learning through hands-on experiences and practical applications.,1,Less than 1 hour,70-90%
+Male,None,7hr,Less than 15min,20-25,UNDER GRADUATE,Neutral,Less than 10,pomodoro,Read/Write,feyman,Participating in debates and discussions that challenge my perspective.,1,Less than 1 hour,70-90%
+Male,None,Less than 7hr,15min - 30min,20-25,UNDER GRADUATE,Neutral,Less than 10,pomodoro,Read/Write,smart_goals,Solving puzzles and brainteasers.,2,Less than 1 hour,70-90%
+Male,None,7hr,Less than 15min,20-25,UNDER GRADUATE,Neutral,Less than 10,time_blocking,Read/Write,feyman,Solving puzzles and brainteasers.,2,Less than 1 hour,70-90%
+Female,None,7hr,15min - 30min,20-25,UNDER GRADUATE,Neutral,Less than 10,time_blocking,Read/Write,smart_goals,"Exploring creative endeavors like writing, drawing, or composing.",2,Less than 1 hour,70-90%
+Male,Less than 5,7hr,More than 7hr,20-25,UNDER GRADUATE,Slightly,Less than 10,time_blocking,Kinaesthetic (learning by physical activity and hands-on experiences.),smart_goals,Engaging in critical thinking and problem-solving.,4,Less than 1 hour,70-90%
+Male,None,7hr,More than 7hr,20-25,UNDER GRADUATE,vey much,Less than 10,pomodoro,Auditory,feyman,"Exploring creative endeavors like writing, drawing, or composing.",1,Less than 1 hour,70-90%
+Male,None,7hr,Less than 15min,20-25,UNDER GRADUATE,Neutral,Less than 10,pomodoro,Read/Write,flowtime,Solving puzzles and brainteasers.,1,Less than 1 hour,70-90%
+Male,None,7hr,15min - 30min,20-25,UNDER GRADUATE,Neutral,Less than 10,pomodoro,Read/Write,feyman,Engaging in critical thinking and problem-solving.,0,Less than 1 hour,70-90%
+Male,Less than 5,7hr,30min - 45min,20-25,UNDER GRADUATE,vey much,Less than 10,time_blocking,Read/Write,feyman,Solving puzzles and brainteasers.,5,Less than 1 hour,50-70%
+Female,None,7hr,More than 7hr,20-25,UNDER GRADUATE,Neutral,Less than 10,time_blocking,Read/Write,smart_goals,Solving puzzles and brainteasers.,3,Less than 1 hour,Greater than 90%
+Male,None,7hr,More than 7hr,20-25,UNDER GRADUATE,Neutral,Less than 10,pomodoro,Read/Write,feyman,Participating in debates and discussions that challenge my perspective.,3,Less than 1 hour,70-90%
+Female,None,Less than 7hr,Less than 15min,20-25,UNDER GRADUATE,Neutral,Less than 10,time_blocking,Visual (Pictures / Diagrams),flowtime,"Exploring creative endeavors like writing, drawing, or composing.",1,Less than 1 hour,70-90%
+Male,None,Less than 7hr,30min - 45min,20-25,UNDER GRADUATE,Neutral,Less than 10,time_blocking,Read/Write,flowtime,Participating in debates and discussions that challenge my perspective.,2,Less than 1 hour,70-90%
+Female,None,7hr,Less than 15min,20-25,UNDER GRADUATE,Neutral,Less than 10,pomodoro,Read/Write,smart_goals,Engaging in critical thinking and problem-solving.,0,Less than 1 hour,70-90%
+Female,None,7hr,More than 45min,20-25,UNDER GRADUATE,Extremly,Less than 10,time_blocking,Visual (Pictures / Diagrams),feyman,Engaging in critical thinking and problem-solving.,5,more than 3 hours,70-90%
+Female,None,7hr,30min - 45min,20-25,UNDER GRADUATE,Neutral,Less than 10,time_blocking,Read/Write,smart_goals,Learning through hands-on experiences and practical applications.,4,Less than 1 hour,70-90%
+Male,None,7hr,30min - 45min,20-25,UNDER GRADUATE,vey much,Less than 10,time_blocking,Read/Write,flowtime,Solving puzzles and brainteasers.,2,Less than 1 hour,50-70%
+Male,None,Less than 7hr,30min - 45min,20-25,UNDER GRADUATE,vey much,Less than 10,pomodoro,Read/Write,feyman,Engaging in critical thinking and problem-solving.,3,Less than 1 hour,50-70%
+Male,None,7hr,30min - 45min,20-25,UNDER GRADUATE,Slightly,Less than 10,time_blocking,Read/Write,feyman,Mastering new skills through interactive and immersive methods.,3,Less than 1 hour,70-90%
+Male,None,7hr,Less than 15min,20-25,UNDER GRADUATE,Slightly,Less than 10,time_blocking,Visual (Pictures / Diagrams),feyman,Immersing myself in deep and thought-provoking discussions.,0,Less than 1 hour,50-70%
+Female,None,7hr,Less than 15min,20-25,UNDER GRADUATE,Neutral,Less than 10,pomodoro,Read/Write,smart_goals,Learning through hands-on experiences and practical applications.,0,Less than 1 hour,50-70%
+Female,None,Less than 7hr,30min - 45min,20-25,UNDER GRADUATE,Neutral,Less than 10,time_blocking,Read/Write,smart_goals,Engaging in critical thinking and problem-solving.,2,Less than 1 hour,70-90%
+Female,None,7hr,15min - 30min,20-25,UNDER GRADUATE,Neutral,Less than 10,time_blocking,Read/Write,smart_goals,Solving puzzles and brainteasers.,0,Less than 1 hour,70-90%
+Female,None,Less than 7hr,Less than 15min,20-25,UNDER GRADUATE,Neutral,Less than 10,pomodoro,Read/Write,smart_goals,Solving puzzles and brainteasers.,1,Less than 1 hour,70-90%
+Male,Less than 5,7hr,30min - 45min,20-25,UNDER GRADUATE,Slightly,Less than 10,time_blocking,Read/Write,smart_goals,Learning through hands-on experiences and practical applications.,3,Less than 1 hour,70-90%
+Male,Less than 5,7hr,15min - 30min,20-25,UNDER GRADUATE,Neutral,Less than 10,time_blocking,Read/Write,feyman,Solving puzzles and brainteasers.,1,Less than 1 hour,70-90%
+Male,Less than 5,7hr,Less than 15min,20-25,UNDER GRADUATE,Neutral,Less than 10,time_blocking,Read/Write,feyman,Solving puzzles and brainteasers.,2,Less than 1 hour,70-90%
+Female,Less than 5,7hr,Less than 15min,20-25,UNDER GRADUATE,Slightly,Less than 10,time_blocking,Read/Write,smart_goals,Engaging in critical thinking and problem-solving.,1,Less than 1 hour,70-90%
+Female,Less than 5,7hr,30min - 45min,20-25,UNDER GRADUATE,Neutral,Less than 10,time_blocking,Read/Write,smart_goals,Mastering new skills through interactive and immersive methods.,2,Less than 1 hour,70-90%
+Male,Less than 5,7hr,15min - 30min,20-25,UNDER GRADUATE,Neutral,Less than 10,time_blocking,Visual (Pictures / Diagrams),smart_goals,Learning through hands-on experiences and practical applications.,1,Less than 1 hour,70-90%
+Male,Less than 5,7hr,Less than 15min,20-25,UNDER GRADUATE,Neutral,Less than 10,pomodoro,Read/Write,smart_goals,Solving puzzles and brainteasers.,1,Less than 1 hour,70-90%
+Female,Less than 5,7hr,Less than 15min,20-25,UNDER GRADUATE,Neutral,Less than 10,pomodoro,Read/Write,smart_goals,Engaging in critical thinking and problem-solving.,1,Less than 1 hour,70-90%
+Female,Less than 5,7hr,15min - 30min,20-25,UNDER GRADUATE,Neutral,Less than 10,time_blocking,Visual (Pictures / Diagrams),smart_goals,Engaging in critical thinking and problem-solving.,2,Less than 1 hour,70-90%
+Male,Less than 5,7hr,Less than 15min,20-25,UNDER GRADUATE,Neutral,Less than 10,time_blocking,Visual (Pictures / Diagrams),smart_goals,Solving puzzles and brainteasers.,2,Less than 1 hour,70-90%
+Female,Less than 5,7hr,Less than 15min,20-25,UNDER GRADUATE,Neutral,Less than 10,time_blocking,Read/Write,smart_goals,Engaging in critical thinking and problem-solving.,1,Less than 1 hour,70-90%
+Female,Less than 5,7hr,15min - 30min,20-25,UNDER GRADUATE,Neutral,Less than 10,time_blocking,Read/Write,smart_goals,Engaging in critical thinking and problem-solving.,0,Less than 1 hour,70-90%
+Female,Less than 5,7hr,Less than 15min,20-25,UNDER GRADUATE,Neutral,Less than 10,time_blocking,Visual (Pictures / Diagrams),smart_goals,Engaging in critical thinking and problem-solving.,1,Less than 1 hour,70-90%
+Female,Less than 5,7hr,15min - 30min,20-25,UNDER GRADUATE,Neutral,Less than 10,time_blocking,Read/Write,smart_goals,Engaging in critical thinking and problem-solving.,1,Less than 1 hour,70-90%
+Male,Less than 5,7hr,Less than 15min,20-25,UNDER GRADUATE,Neutral,Less than 10,time_blocking,Visual (Pictures / Diagrams),smart_goals,Solving puzzles and brainteasers.,1,Less than 1 hour,70-90%
+Female,Less than 5,7hr,15min - 30min,20-25,UNDER GRADUATE,Neutral,Less than 10,time_blocking,Read/Write,smart_goals,Engaging in critical thinking and problem-solving.,1,Less than 1 hour,70-90%
+Female,Less than 5,7hr,Less than 15min,20-25,UNDER GRADUATE,Neutral,Less than 10,time_blocking,Visual (Pictures / Diagrams),smart_goals,Solving puzzles and brainteasers.,2,Less than 1 hour,70-90%
+Male,Less than 5,7hr,Less than 15min,20-25,UNDER GRADUATE,Neutral,Less than 10,time_blocking,Visual (Pictures / Diagrams),smart_goals,Solving puzzles and brainteasers.,1,Less than 1 hour,70-90%
+Female,None,Less than 7hr,15min - 30min,20-25,UNDER GRADUATE,Neutral,Less than 10,pomodoro,Read/Write,feyman,"Exploring creative endeavors like writing, drawing, or composing.",3,Less than 1 hour,70-90%
+Female,None,7hr,15min - 30min,20-25,UNDER GRADUATE,Neutral,Less than 10,pomodoro,Visual (Pictures / Diagrams),flowtime,Immersing myself in deep and thought-provoking discussions.,1,Less than 1 hour,70-90%
+Female,None,More than 7hr,15min - 30min,20-25,UNDER GRADUATE,Slightly,Less than 30,pomodoro,Auditory,flowtime,"Exploring creative endeavors like writing, drawing, or composing.",1,Less than 1 hour,Greater than 90%
+Female,None,Less than 7hr,15min - 30min,15-20,UNDER GRADUATE,Slightly,Less than 30,time_blocking,Read/Write,feyman,Solving puzzles and brainteasers.,1,Less than 1 hour,50-70%
+Male,None,Less than 7hr,Less than 15min,20-25,UNDER GRADUATE,vey much,Less than 30,time_blocking,Visual (Pictures / Diagrams),feyman,Engaging in critical thinking and problem-solving.,4,Less than 1 hour,70-90%
+Female,None,Less than 7hr,15min - 30min,20-25,UNDER GRADUATE,Neutral,Less than 10,time_blocking,All of the above. It depends on the subject/course I'm learning,flowtime,Mastering new skills through interactive and immersive methods.,2,Less than 1 hour,70-90%
+Female,None,7hr,30min - 45min,15-20,UNDER GRADUATE,Neutral,Less than 10,pomodoro,Read/Write,smart_goals,Participating in debates and discussions that challenge my perspective.,2,Less than 1 hour,70-90%
+Male,None,More than 7hr,Less than 15min,15-20,UNDER GRADUATE,Extremly,Less than 10,time_blocking,A mixture of all,feyman,Tackling complex challenges that require strategic thinking.,0,Less than 1 hour,Greater than 90%
+Male,None,Less than 7hr,15min - 30min,15-20,UNDER GRADUATE,Neutral,Less than 10,pomodoro,Read/Write,flowtime,Reflecting on complex ideas and connecting them to real-world scenarios.,4,Less than 1 hour,70-90%
+Female,None,Less than 7hr,15min - 30min,15-20,UNDER GRADUATE,Not at all,Less than 10,pomodoro,Visual (Pictures / Diagrams),flowtime,Absorbing information through visual aids and diagrams.,0,Less than 1 hour,70-90%
+Female,None,Less than 7hr,30min - 45min,20-25,UNDER GRADUATE,Not at all,Less than 10,pomodoro,Read/Write,flowtime,Participating in debates and discussions that challenge my perspective.,0,Less than 1 hour,50-70%
+Female,None,7hr,15min - 30min,20-25,UNDER GRADUATE,Slightly,Less than 10,pomodoro,Visual (Pictures / Diagrams),eisenhower,Reflecting on complex ideas and connecting them to real-world scenarios.,0,Less than 1 hour,70-90%
+Female,None,7hr,Less than 15min,20-25,UNDER GRADUATE,Neutral,Less than 10,pomodoro,Read/Write,feyman,Solving puzzles and brainteasers.,1,Less than 1 hour,70-90%
+Male,None,Less than 7hr,30min - 45min,20-25,UNDER GRADUATE,vey much,Less than 30,pomodoro,Read/Write,feyman,Engaging in critical thinking and problem-solving.,2,Less than 1 hour,70-90%
+Male,None,Less than 7hr,15min - 30min,20-25,UNDER GRADUATE,Slightly,Less than 30,time_blocking,Read/Write,feyman,Engaging in critical thinking and problem-solving.,2,Less than 1 hour,70-90%
+Female,Less than 5,More than 7hr,Less than 15min,20-25,UNDER GRADUATE,Neutral,Less than 10,time_blocking,Read/Write,feyman,Absorbing information through visual aids and diagrams.,2,Less than 1 hour,50-70%
+Female,None,7hr,30min - 45min,20-25,UNDER GRADUATE,vey much,Less than 10,time_blocking,Read/Write,smart_goals,"Exploring creative endeavors like writing, drawing, or composing.",3,1-3 hours,70-90%
+Female,None,7hr,30min - 45min,15-20,UNDER GRADUATE,Slightly,Less than 10,time_blocking,Visual (Pictures / Diagrams),feyman,Absorbing information through visual aids and diagrams.,1,Less than 1 hour,Greater than 90%
+Male,Less than 5,Less than 7hr,30min - 45min,20-25,UNDER GRADUATE,Neutral,Less than 10,time_blocking,Visual (Pictures / Diagrams),eisenhower,Engaging in critical thinking and problem-solving.,1,Less than 1 hour,70-90%
+Female,None,7hr,30min - 45min,20-25,POST GRADUATE,Slightly,Less than 10,time_blocking,Read/Write,smart_goals,Learning through hands-on experiences and practical applications.,0,Less than 1 hour,70-90%
+Male,None,7hr,More than 45min,20-25,UNDER GRADUATE,Slightly,Less than 10,time_blocking,Kinaesthetic (learning by physical activity and hands-on experiences.),feyman,Tackling complex challenges that require strategic thinking.,1,Less than 1 hour,70-90%
+Female,None,Less than 7hr,More than 45min,20-25,UNDER GRADUATE,Neutral,Less than 10,time_blocking,Visual (Pictures / Diagrams),flowtime,Solving puzzles and brainteasers.,2,Less than 1 hour,70-90%
+Female,None,More than 7hr,Less than 15min,20-25,UNDER GRADUATE,Extremly,Less than 10,pomodoro,Read/Write,feyman,Solving puzzles and brainteasers.,5,Less than 1 hour,70-90%
+Male,Greater than 5,7hr,15min - 30min,20-25,UNDER GRADUATE,Neutral,Above 30,pomodoro,Visual (Pictures / Diagrams),flowtime,Engaging in critical thinking and problem-solving.,2,Less than 1 hour,Less than 50%
+Male,None,Less than 7hr,30min - 45min,20-25,UNDER GRADUATE,Slightly,Less than 30,time_blocking,Read/Write,feyman,Immersing myself in deep and thought-provoking discussions.,3,Less than 1 hour,70-90%
+Male,None,Less than 7hr,30min - 45min,20-25,UNDER GRADUATE,Slightly,Less than 10,time_blocking,Kinaesthetic (learning by physical activity and hands-on experiences.),flowtime,Learning through hands-on experiences and practical applications.,2,1-3 hours,70-90%
+Female,Greater than 5,Less than 7hr,30min - 45min,20-25,UNDER GRADUATE,Slightly,Less than 30,pomodoro,Kinaesthetic (learning by physical activity and hands-on experiences.),smart_goals,Engaging in critical thinking and problem-solving.,4,Less than 1 hour,Less than 50%
+Female,None,7hr,30min - 45min,15-20,UNDER GRADUATE,Slightly,Less than 10,pomodoro,Read/Write,feyman,"Exploring creative endeavors like writing, drawing, or composing.",2,Less than 1 hour,70-90%
+Female,None,7hr,15min - 30min,20-25,UNDER GRADUATE,Neutral,Less than 10,pomodoro,Read/Write,flowtime,Learning through hands-on experiences and practical applications.,0,Less than 1 hour,50-70%
+Female,None,More than 7hr,More than 45min,20-25,UNDER GRADUATE,Extremly,Less than 10,pomodoro,Visual (Pictures / Diagrams),feyman,Solving puzzles and brainteasers.,0,Less than 1 hour,Greater than 90%
+Female,None,More than 7hr,Less than 15min,20-25,UNDER GRADUATE,Not at all,Above 30,pomodoro,Read/Write,eisenhower,"Exploring creative endeavors like writing, drawing, or composing.",2,1-3 hours,70-90%
+Female,None,7hr,15min - 30min,20-25,UNDER GRADUATE,Slightly,Less than 10,pomodoro,Visual (Pictures / Diagrams),smart_goals,Solving puzzles and brainteasers.,3,Less than 1 hour,70-90%
+Male,None,7hr,15min - 30min,15-20,UNDER GRADUATE,Neutral,Less than 10,time_blocking,Read/Write,flowtime,Learning through hands-on experiences and practical applications.,2,Less than 1 hour,70-90%
+Male,None,Less than 7hr,15min - 30min,15-20,HIGHER SECONDARY SCHOOL,Not at all,Less than 30,time_blocking,Auditory,feyman,Reflecting on complex ideas and connecting them to real-world scenarios.,0,Less than 1 hour,50-70%
+Male,Less than 5,7hr,More than 45min,20-25,POST GRADUATE,Neutral,Less than 10,pomodoro,Read/Write,smart_goals,Solving puzzles and brainteasers.,3,1-3 hours,70-90%
+Female,None,7hr,30min - 45min,20-25,UNDER GRADUATE,Slightly,Less than 10,time_blocking,Read/Write,flowtime,Mastering new skills through interactive and immersive methods.,2,Less than 1 hour,50-70%
+Female,None,7hr,Less than 15min,20-25,UNDER GRADUATE,Slightly,Less than 10,time_blocking,Read/Write,smart_goals,Solving puzzles and brainteasers.,3,Less than 1 hour,70-90%
+Female,None,7hr,Less than 15min,20-25,UNDER GRADUATE,Slightly,Less than 10,pomodoro,Auditory,smart_goals,Mastering new skills through interactive and immersive methods.,3,Less than 1 hour,50-70%
+Female,None,7hr,30min - 45min,20-25,UNDER GRADUATE,vey much,Less than 10,time_blocking,Read/Write,flowtime,Mastering new skills through interactive and immersive methods.,2,Less than 1 hour,50-70%
+Male,None,Less than 7hr,More than 45min,20-25,UNDER GRADUATE,Neutral,Less than 10,time_blocking,Read/Write,smart_goals,Engaging in critical thinking and problem-solving.,0,Less than 1 hour,70-90%
+Male,None,Less than 7hr,More than 45min,20-25,UNDER GRADUATE,Slightly,Less than 10,time_blocking,Read/Write,feyman,Engaging in critical thinking and problem-solving.,0,Less than 1 hour,70-90%
+Male,Less than 5,7hr,More than 7hr,15-20,UNDER GRADUATE,Extremly,Less than 30,time_blocking,Auditory,flowtime,Mastering new skills through interactive and immersive methods.,5,Less than 1 hour,70-90%
+Male,Greater than 5,More than 7hr,More than 45min,20-25,POST GRADUATE,Extremly,Above 30,time_blocking,flowtime,flowtime,Learning through hands-on experiences and practical applications.,0,Greater than 90%,70-90%
+Male,None,7hr,30min - 45min,20-25,POST GRADUATE,vey much,Less than 10,time_blocking,Read/Write,smart_goals,Learning through hands-on experiences and practical applications.,2,1-3 hours,Greater than 90%
+Male,Greater than 5,More than 7hr,Less than 15min,15-20,UNDER GRADUATE,Not at all,Above 30,time_blocking,Padikaan thalparyoola,smart_goals,Learning through hands-on experiences and practical applications.,5,Less than 1 hour,50-70%
+Male,Greater than 5,Less than 7hr,Less than 15min,15-20,UNDER GRADUATE,vey much,Above 30,pomodoro,Auditory,smart_goals,Learning through hands-on experiences and practical applications.,5,Less than 1 hour,50-70%
+Male,Less than 5,7hr,More than 45min,20-25,UNDER GRADUATE,Neutral,Less than 30,pomodoro,Auditory,feyman,Mastering new skills through interactive and immersive methods.,1,Less than 1 hour,50-70%
+Male,Less than 5,More than 7hr,15min - 30min,20-25,UNDER GRADUATE,vey much,Less than 30,time_blocking,Kinaesthetic (learning by physical activity and hands-on experiences.),feyman,Learning through hands-on experiences and practical applications.,4,Less than 1 hour,50-70%
+Male,None,7hr,15min - 30min,20-25,OTHER,Neutral,Less than 10,time_blocking,Visual (Pictures / Diagrams),smart_goals,Absorbing information through visual aids and diagrams.,2,more than 3 hours,70-90%
+Female,None,Less than 7hr,30min - 45min,20-25,UNDER GRADUATE,Neutral,Less than 10,pomodoro,Read/Write,eisenhower,"Exploring creative endeavors like writing, drawing, or composing.",2,Less than 1 hour,70-90%
+Male,Greater than 5,Less than 7hr,Less than 15min,20-25,POST GRADUATE,Slightly,Less than 10,time_blocking,Read/Write,feyman,Solving puzzles and brainteasers.,1,Less than 1 hour,70-90%
+Female,None,7hr,More than 45min,20-25,POST GRADUATE,Neutral,Less than 10,time_blocking,Visual (Pictures / Diagrams),smart_goals,Solving puzzles and brainteasers.,4,more than 3 hours,70-90%
+Male,None,7hr,Less than 15min,20-25,UNDER GRADUATE,vey much,Less than 10,pomodoro,Read/Write,feyman,Solving puzzles and brainteasers.,0,Less than 1 hour,70-90%
+Male,None,Less than 7hr,15min - 30min,15-20,UNDER GRADUATE,Neutral,Less than 10,time_blocking,Visual (Pictures / Diagrams),smart_goals,"Exploring creative endeavors like writing, drawing, or composing.",2,Less than 1 hour,50-70%
+Male,Greater than 5,More than 7hr,More than 45min,25-30,OTHER,Extremly,Above 30,time_blocking,Read/Write,flowtime,Solving puzzles and brainteasers.,5,more than 3 hours,Greater than 90%
+Female,None,7hr,More than 45min,20-25,UNDER GRADUATE,Neutral,Less than 30,pomodoro,Read/Write,flowtime,Solving puzzles and brainteasers.,0,Less than 1 hour,70-90%
+Female,None,Less than 7hr,More than 45min,20-25,UNDER GRADUATE,vey much,Less than 30,time_blocking,Read/Write,feyman,Absorbing information through visual aids and diagrams.,0,Less than 1 hour,50-70%
+Male,None,7hr,30min - 45min,15-20,UNDER GRADUATE,Neutral,Less than 30,time_blocking,Kinaesthetic (learning by physical activity and hands-on experiences.),feyman,Learning through hands-on experiences and practical applications.,1,Less than 1 hour,70-90%
+Male,None,Less than 7hr,15min - 30min,20-25,UNDER GRADUATE,Neutral,Less than 10,pomodoro,Visual (Pictures / Diagrams),flowtime,Engaging in critical thinking and problem-solving.,1,Less than 1 hour,70-90%
+Male,Less than 5,7hr,Less than 15min,20-25,UNDER GRADUATE,Slightly,Less than 10,pomodoro,Visual (Pictures / Diagrams),smart_goals,Immersing myself in deep and thought-provoking discussions.,3,1-3 hours,70-90%
+Male,Less than 5,Less than 7hr,15min - 30min,15-20,UNDER GRADUATE,Neutral,Less than 10,pomodoro,Visual (Pictures / Diagrams),flowtime,Mastering new skills through interactive and immersive methods.,1,Less than 1 hour,Less than 50%
+Female,None,Less than 7hr,15min - 30min,15-20,UNDER GRADUATE,Neutral,Less than 10,time_blocking,Visual (Pictures / Diagrams),flowtime,Solving puzzles and brainteasers.,2,1-3 hours,70-90%
+Female,None,7hr,15min - 30min,20-25,UNDER GRADUATE,Slightly,Less than 10,time_blocking,Read/Write,feyman,"Exploring creative endeavors like writing, drawing, or composing.",1,Less than 1 hour,70-90%
+Female,None,7hr,15min - 30min,20-25,UNDER GRADUATE,Neutral,Less than 10,time_blocking,Read/Write,feyman,Absorbing information through visual aids and diagrams.,0,Less than 1 hour,70-90%
+Female,None,7hr,15min - 30min,15-20,UNDER GRADUATE,Neutral,Less than 10,time_blocking,Read/Write,feyman,Learning through hands-on experiences and practical applications.,0,Less than 1 hour,50-70%
+Female,None,7hr,Less than 15min,20-25,UNDER GRADUATE,Neutral,Less than 10,pomodoro,Read/Write,feyman,"Exploring creative endeavors like writing, drawing, or composing.",1,Less than 1 hour,70-90%
+Female,None,7hr,15min - 30min,20-25,UNDER GRADUATE,Neutral,Less than 10,time_blocking,Visual (Pictures / Diagrams),feyman,Immersing myself in deep and thought-provoking discussions.,1,Less than 1 hour,70-90%
+Male,None,Less than 7hr,Less than 15min,15-20,UNDER GRADUATE,Neutral,Less than 10,time_blocking,Visual (Pictures / Diagrams),flowtime,Engaging in critical thinking and problem-solving.,1,Less than 1 hour,70-90%
+Male,None,7hr,Less than 15min,20-25,UNDER GRADUATE,Slightly,Less than 10,time_blocking,Read/Write,smart_goals,Learning through hands-on experiences and practical applications.,1,Less than 1 hour,70-90%
+Male,None,7hr,More than 7hr,20-25,POST GRADUATE,Neutral,Less than 10,time_blocking,Visual (Pictures / Diagrams),feyman,Solving puzzles and brainteasers.,4,Less than 1 hour,70-90%
+Male,None,7hr,Less than 15min,20-25,UNDER GRADUATE,Neutral,Less than 10,time_blocking,Read/Write,flowtime,"Exploring creative endeavors like writing, drawing, or composing.",2,Less than 1 hour,70-90%
+Male,None,7hr,30min - 45min,20-25,UNDER GRADUATE,Neutral,Less than 10,pomodoro,Visual (Pictures / Diagrams),smart_goals,Engaging in critical thinking and problem-solving.,3,Less than 1 hour,70-90%
+Male,None,7hr,30min - 45min,20-25,UNDER GRADUATE,Slightly,Less than 10,time_blocking,Visual (Pictures / Diagrams),flowtime,Learning through hands-on experiences and practical applications.,1,Less than 1 hour,70-90%
+Male,None,7hr,Less than 15min,20-25,UNDER GRADUATE,Neutral,Less than 10,pomodoro,Read/Write,feyman,Participating in debates and discussions that challenge my perspective.,1,Less than 1 hour,70-90%
+Male,None,Less than 7hr,15min - 30min,20-25,UNDER GRADUATE,Neutral,Less than 10,pomodoro,Read/Write,smart_goals,Solving puzzles and brainteasers.,2,Less than 1 hour,70-90%
+Male,None,7hr,Less than 15min,20-25,UNDER GRADUATE,Neutral,Less than 10,time_blocking,Read/Write,feyman,Solving puzzles and brainteasers.,2,Less than 1 hour,70-90%
+Female,None,7hr,15min - 30min,20-25,UNDER GRADUATE,Neutral,Less than 10,time_blocking,Read/Write,smart_goals,"Exploring creative endeavors like writing, drawing, or composing.",2,Less than 1 hour,70-90%
+Male,Less than 5,7hr,More than 7hr,20-25,UNDER GRADUATE,Slightly,Less than 10,time_blocking,Kinaesthetic (learning by physical activity and hands-on experiences.),smart_goals,Engaging in critical thinking and problem-solving.,4,Less than 1 hour,70-90%
+Male,None,7hr,More than 7hr,20-25,UNDER GRADUATE,vey much,Less than 10,pomodoro,Auditory,feyman,"Exploring creative endeavors like writing, drawing, or composing.",1,Less than 1 hour,70-90%
+Male,None,7hr,Less than 15min,20-25,UNDER GRADUATE,Neutral,Less than 10,pomodoro,Read/Write,flowtime,Solving puzzles and brainteasers.,1,Less than 1 hour,70-90%
+Male,None,7hr,15min - 30min,20-25,UNDER GRADUATE,Neutral,Less than 10,pomodoro,Read/Write,feyman,Engaging in critical thinking and problem-solving.,0,Less than 1 hour,70-90%
+Male,Less than 5,7hr,30min - 45min,20-25,UNDER GRADUATE,vey much,Less than 10,time_blocking,Read/Write,feyman,Solving puzzles and brainteasers.,5,Less than 1 hour,50-70%
+Female,None,7hr,More than 7hr,20-25,UNDER GRADUATE,Neutral,Less than 10,time_blocking,Read/Write,smart_goals,Solving puzzles and brainteasers.,3,Less than 1 hour,Greater than 90%
+Male,None,7hr,More than 7hr,20-25,UNDER GRADUATE,Neutral,Less than 10,pomodoro,Read/Write,feyman,Participating in debates and discussions that challenge my perspective.,3,Less than 1 hour,70-90%
+Female,None,Less than 7hr,Less than 15min,20-25,UNDER GRADUATE,Neutral,Less than 10,time_blocking,Visual (Pictures / Diagrams),flowtime,"Exploring creative endeavors like writing, drawing, or composing.",1,Less than 1 hour,70-90%
+Male,None,Less than 7hr,30min - 45min,20-25,UNDER GRADUATE,Neutral,Less than 10,time_blocking,Read/Write,flowtime,Participating in debates and discussions that challenge my perspective.,2,Less than 1 hour,70-90%
+Female,None,7hr,Less than 15min,20-25,UNDER GRADUATE,Neutral,Less than 10,pomodoro,Read/Write,smart_goals,Engaging in critical thinking and problem-solving.,0,Less than 1 hour,70-90%
+Female,None,7hr,More than 45min,20-25,UNDER GRADUATE,Extremly,Less than 10,time_blocking,Visual (Pictures / Diagrams),feyman,Engaging in critical thinking and problem-solving.,5,more than 3 hours,70-90%
+Female,None,7hr,30min - 45min,20-25,UNDER GRADUATE,Neutral,Less than 10,time_blocking,Read/Write,smart_goals,Learning through hands-on experiences and practical applications.,4,Less than 1 hour,70-90%
+Male,None,7hr,30min - 45min,20-25,UNDER GRADUATE,vey much,Less than 10,time_blocking,Read/Write,flowtime,Solving puzzles and brainteasers.,2,Less than 1 hour,50-70%
+Male,None,Less than 7hr,30min - 45min,20-25,UNDER GRADUATE,vey much,Less than 10,pomodoro,Read/Write,feyman,Engaging in critical thinking and problem-solving.,3,Less than 1 hour,50-70%
+Male,None,7hr,30min - 45min,20-25,UNDER GRADUATE,Slightly,Less than 10,time_blocking,Read/Write,feyman,Mastering new skills through interactive and immersive methods.,3,Less than 1 hour,70-90%
+Male,None,7hr,Less than 15min,20-25,UNDER GRADUATE,Slightly,Less than 10,time_blocking,Visual (Pictures / Diagrams),feyman,Immersing myself in deep and thought-provoking discussions.,0,Less than 1 hour,50-70%
+Female,None,7hr,Less than 15min,20-25,UNDER GRADUATE,Neutral,Less than 10,pomodoro,Read/Write,smart_goals,Learning through hands-on experiences and practical applications.,0,Less than 1 hour,50-70%
+Female,None,Less than 7hr,30min - 45min,20-25,UNDER GRADUATE,Neutral,Less than 10,time_blocking,Read/Write,smart_goals,Engaging in critical thinking and problem-solving.,2,Less than 1 hour,70-90%
+Female,None,7hr,15min - 30min,20-25,UNDER GRADUATE,Neutral,Less than 10,time_blocking,Read/Write,smart_goals,Solving puzzles and brainteasers.,0,Less than 1 hour,70-90%
+Female,None,Less than 7hr,Less than 15min,20-25,UNDER GRADUATE,Neutral,Less than 10,pomodoro,Read/Write,smart_goals,Solving puzzles and brainteasers.,1,Less than 1 hour,70-90%
+Male,Less than 5,7hr,30min - 45min,20-25,UNDER GRADUATE,Slightly,Less than 10,time_blocking,Read/Write,smart_goals,Learning through hands-on experiences and practical applications.,3,Less than 1 hour,70-90%
+Male,Less than 5,7hr,15min - 30min,20-25,UNDER GRADUATE,Neutral,Less than 10,time_blocking,Read/Write,feyman,Solving puzzles and brainteasers.,1,Less than 1 hour,70-90%
+Male,Less than 5,7hr,Less than 15min,20-25,UNDER GRADUATE,Neutral,Less than 10,time_blocking,Read/Write,feyman,Solving puzzles and brainteasers.,2,Less than 1 hour,70-90%
+Female,Less than 5,7hr,Less than 15min,20-25,UNDER GRADUATE,Slightly,Less than 10,time_blocking,Read/Write,smart_goals,Engaging in critical thinking and problem-solving.,1,Less than 1 hour,70-90%
+Female,Less than 5,7hr,30min - 45min,20-25,UNDER GRADUATE,Neutral,Less than 10,time_blocking,Read/Write,smart_goals,Mastering new skills through interactive and immersive methods.,2,Less than 1 hour,70-90%
+Male,Less than 5,7hr,15min - 30min,20-25,UNDER GRADUATE,Neutral,Less than 10,time_blocking,Visual (Pictures / Diagrams),smart_goals,Learning through hands-on experiences and practical applications.,1,Less than 1 hour,70-90%
+Male,Less than 5,7hr,Less than 15min,20-25,UNDER GRADUATE,Neutral,Less than 10,pomodoro,Read/Write,smart_goals,Solving puzzles and brainteasers.,1,Less than 1 hour,70-90%
+Female,Less than 5,7hr,Less than 15min,20-25,UNDER GRADUATE,Neutral,Less than 10,pomodoro,Read/Write,smart_goals,Engaging in critical thinking and problem-solving.,1,Less than 1 hour,70-90%
+Female,Less than 5,7hr,15min - 30min,20-25,UNDER GRADUATE,Neutral,Less than 10,time_blocking,Visual (Pictures / Diagrams),smart_goals,Engaging in critical thinking and problem-solving.,2,Less than 1 hour,70-90%
+Male,Less than 5,7hr,Less than 15min,20-25,UNDER GRADUATE,Neutral,Less than 10,time_blocking,Visual (Pictures / Diagrams),smart_goals,Solving puzzles and brainteasers.,2,Less than 1 hour,70-90%
+Female,Less than 5,7hr,Less than 15min,20-25,UNDER GRADUATE,Neutral,Less than 10,time_blocking,Read/Write,smart_goals,Engaging in critical thinking and problem-solving.,1,Less than 1 hour,70-90%
+Female,Less than 5,7hr,15min - 30min,20-25,UNDER GRADUATE,Neutral,Less than 10,time_blocking,Read/Write,smart_goals,Engaging in critical thinking and problem-solving.,0,Less than 1 hour,70-90%
+Female,Less than 5,7hr,Less than 15min,20-25,UNDER GRADUATE,Neutral,Less than 10,time_blocking,Visual (Pictures / Diagrams),smart_goals,Engaging in critical thinking and problem-solving.,1,Less than 1 hour,70-90%
+Female,Less than 5,7hr,15min - 30min,20-25,UNDER GRADUATE,Neutral,Less than 10,time_blocking,Read/Write,smart_goals,Engaging in critical thinking and problem-solving.,1,Less than 1 hour,70-90%
+Male,Less than 5,7hr,Less than 15min,20-25,UNDER GRADUATE,Neutral,Less than 10,time_blocking,Visual (Pictures / Diagrams),smart_goals,Solving puzzles and brainteasers.,1,Less than 1 hour,70-90%
+Female,Less than 5,7hr,15min - 30min,20-25,UNDER GRADUATE,Neutral,Less than 10,time_blocking,Read/Write,smart_goals,Engaging in critical thinking and problem-solving.,1,Less than 1 hour,70-90%
+Female,Less than 5,7hr,Less than 15min,20-25,UNDER GRADUATE,Neutral,Less than 10,time_blocking,Visual (Pictures / Diagrams),smart_goals,Solving puzzles and brainteasers.,2,Less than 1 hour,70-90%
+Male,Less than 5,7hr,Less than 15min,20-25,UNDER GRADUATE,Neutral,Less than 10,time_blocking,Visual (Pictures / Diagrams),smart_goals,Solving puzzles and brainteasers.,1,Less than 1 hour,70-90%
